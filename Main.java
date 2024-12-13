@@ -8,6 +8,7 @@ public class Main{
         System.out.println("output from java project");
         System.out.println(new Date());
         System.out.println("Added one more");
+        System.out.println("Hello");
 
 
     }
